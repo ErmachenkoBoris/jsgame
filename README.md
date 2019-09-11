@@ -1,2 +1,5 @@
 # jsgame
-jsgame
+
+### Controls
+
+Space button - jump
